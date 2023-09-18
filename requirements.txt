@@ -1,0 +1,8 @@
+flask
+pillow
+numpy
+opencv-python
+azure-cognitiveservices-vision-computervision
+python-dotenv
+pandas
+openpyxl
